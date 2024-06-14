@@ -2,7 +2,8 @@
 
 ## E-R Diagram for the application
 
-![E-R Diagram](./ER%20Diagram/E-Commerce%20API%20ER%20Diagram.jpeg?raw=true)
+![E-Commerce API ER Diagram](https://github.com/niteshRepo/E-Commerce-SpringBoot-Backend/assets/170353501/d87e047b-14e9-4965-8aee-7131c2d73497)
+
 
 ## Tech Stack
 
