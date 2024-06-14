@@ -64,11 +64,6 @@ public class Customer {
 	
 	private LocalDateTime createdOn;
 	
-	@PrePersist
-	private void getPersist() {
-		createdOn = LocalDateTime.now();
-	}
-	
 	@Embedded
 	private CreditCard creditCard;
 	
